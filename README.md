@@ -1,2 +1,0 @@
-# bw-page
-bw-page
